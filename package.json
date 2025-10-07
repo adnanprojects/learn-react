@@ -1,0 +1,33 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "learing React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnanprojects/learn-react.git"
+  },
+  "keywords": [
+    "#learn_react",
+    "#react_learning"
+  ],
+  "author": "Adnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnanprojects/learn-react/issues"
+  },
+  "homepage": "https://github.com/adnanprojects/learn-react#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.9"
+  }
+}
